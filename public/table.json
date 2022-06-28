@@ -1,0 +1,40 @@
+{
+    "list": [{
+            "id": 1,
+            "name": "凯里·欧文",
+            "money": 44900000,
+            "address": "澳大利亚墨尔本",
+            "state": "现役",
+            "date": "2011年",
+            "thumb": "https://img0.baidu.com/it/u=3256523981,3477474838&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=507"
+        },
+        {
+            "id": 2,
+            "name": "科比·布莱恩特",
+            "money": 55690000,
+            "address": "美国宾夕法尼亚州费城",
+            "state": "退役",
+            "date": "1996年",
+            "thumb": "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Finews.gtimg.com%2Fnewsapp_bt%2F0%2F12356772694%2F1000.jpg&refer=http%3A%2F%2Finews.gtimg.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1658935849&t=2b352151ee73319bde311c6701bfa945"
+        },
+        {
+            "id": 3,
+            "name": "勒布朗·詹姆斯",
+            "money": 58990000,
+            "address": "美国俄亥俄州阿克伦",
+            "state": "现役",
+            "date": "2003年",
+            "thumb": "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fi.qqkou.com%2Fi%2F1a3491400480x3111573797b15.jpg&refer=http%3A%2F%2Fi.qqkou.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1658936046&t=0d0743d61e99596e1af537fbd30eb51b"
+        },
+        {
+            "id": 4,
+            "name": "迈克尔·乔丹",
+            "money": 61190000,
+            "address": "美国纽约州布鲁克林",
+            "state": "退役",
+            "date": "1984年",
+            "thumb": "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fnba.nubb.com%2Fimages%2F2013%2Fpic%2F2015%2F03%2F03%2F7C4AE0DA38598B1242264494F40EC1C5.jpg&refer=http%3A%2F%2Fnba.nubb.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1658936202&t=4ece419f8abe86af85456a90c31e05c6"
+        }
+    ],
+    "pageTotal": 4
+}
